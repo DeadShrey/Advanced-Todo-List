@@ -1,2 +1,3 @@
 # Advanced-Todo-List
-A Todo List made made using Google Antigravity.
+A Todo List made using Google Antigravity.  
+This was made before CloudNotes while learning how to code using Google Antigravity.
